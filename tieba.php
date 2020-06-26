@@ -88,4 +88,4 @@
     echo '<br /><a>'.date('Y年m月d日 H:i:s').'</a><br />';
 ?>
 </body>
-</html>
+</html> 
